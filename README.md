@@ -1,5 +1,5 @@
 # Repaso-ProgAPP
-Programa de Repaso
+Programa de Repaso Programa durante las Clases en Linea via Clasroom CoVID-19. del jueves, 16 de abril de 2020 15:21:32 CDT
 
 
 								Licencia MIT, 
